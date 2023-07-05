@@ -16,7 +16,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>{message || "Loading..."}</p>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello from CANDIG. This is a frontend change.
+        </p>
+        <p>
+          Looks awesome!
         </p>
         <a
           className="App-link"
