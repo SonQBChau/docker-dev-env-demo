@@ -18,6 +18,9 @@ function App() {
         <p>
           Hello from CANDIG. This is a frontend change.
         </p>
+        <p>
+          Looks awesome!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
